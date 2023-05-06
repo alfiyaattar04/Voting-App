@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">693330851221-o5ua50n5uqam4sq22qph7vhg24ummh90.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://voting-app-4adbe-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">693330851221</string>
+    <string name="google_api_key" translatable="false">AIzaSyDC0BIXoO3FVdjhevOt3T8rEi4M_b27IbM</string>
+    <string name="google_app_id" translatable="false">1:693330851221:android:cebb5001bc01d8b998329c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDC0BIXoO3FVdjhevOt3T8rEi4M_b27IbM</string>
+    <string name="google_storage_bucket" translatable="false">voting-app-4adbe.appspot.com</string>
+    <string name="project_id" translatable="false">voting-app-4adbe</string>
+</resources>
